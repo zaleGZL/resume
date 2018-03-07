@@ -12,7 +12,7 @@
 - 技术博客: [http://guozeling.cn/blogs](http://guozeling.cn/blogs)
 - Github: [https://github.com/zaleGZL](https://github.com/zaleGZL)
 - 期望职位: Web前端开发(实习)
-- 期望城市: 深圳
+- 期望城市: 成都
 
 ### 教育情况
 
